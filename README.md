@@ -1,11 +1,11 @@
 # Official Inspire Website
 
-## Created Using Following Technology Stack
+#### Created Using Following Technology Stack
 
-## Frontend : HTML CSS JS Bootstrap Tailwind CSS <br />
-## Backend  : PHP MySQL
+#### Frontend : HTML CSS JS Bootstrap Tailwind CSS <br />
+#### Backend  : PHP MySQL
 
-Here are some screenshot of the website : 
+#### Here are some screenshot of the website : 
 
 
 ![3](https://user-images.githubusercontent.com/72167978/235100515-7453e979-5249-4ff9-b1e5-18edc30a4b36.PNG)
